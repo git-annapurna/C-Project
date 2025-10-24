@@ -1,5 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hjasdjsaijd ");
+    //int a;
+    printf("ello");
+    int a=5;
+    printf("%d",a);
 }
