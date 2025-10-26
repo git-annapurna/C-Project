@@ -44,10 +44,10 @@ int main()
 
 
     //Printing 2-D matrix
-    1 3 4 10
-    2 5 9 11
-    6 8 12 15
-    7 13 14 16
+  //  1 3 4 10
+  //  2 5 9 11
+  //  6 8 12 15
+  //  7 13 14 16
 
     #include<stdio.h>
     int main() 
